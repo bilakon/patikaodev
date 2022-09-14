@@ -1,0 +1,15 @@
+C:\Users\Bilakon\source\repos\patika_odev\patika_odev\bin\Debug\net6.0\patika_odev.exe
+C:\Users\Bilakon\source\repos\patika_odev\patika_odev\bin\Debug\net6.0\patika_odev.deps.json
+C:\Users\Bilakon\source\repos\patika_odev\patika_odev\bin\Debug\net6.0\patika_odev.runtimeconfig.json
+C:\Users\Bilakon\source\repos\patika_odev\patika_odev\bin\Debug\net6.0\patika_odev.dll
+C:\Users\Bilakon\source\repos\patika_odev\patika_odev\bin\Debug\net6.0\patika_odev.pdb
+C:\Users\Bilakon\source\repos\patika_odev\patika_odev\obj\Debug\net6.0\patika_odev.csproj.AssemblyReference.cache
+C:\Users\Bilakon\source\repos\patika_odev\patika_odev\obj\Debug\net6.0\patika_odev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bilakon\source\repos\patika_odev\patika_odev\obj\Debug\net6.0\patika_odev.AssemblyInfoInputs.cache
+C:\Users\Bilakon\source\repos\patika_odev\patika_odev\obj\Debug\net6.0\patika_odev.AssemblyInfo.cs
+C:\Users\Bilakon\source\repos\patika_odev\patika_odev\obj\Debug\net6.0\patika_odev.csproj.CoreCompileInputs.cache
+C:\Users\Bilakon\source\repos\patika_odev\patika_odev\obj\Debug\net6.0\patika_odev.dll
+C:\Users\Bilakon\source\repos\patika_odev\patika_odev\obj\Debug\net6.0\refint\patika_odev.dll
+C:\Users\Bilakon\source\repos\patika_odev\patika_odev\obj\Debug\net6.0\patika_odev.pdb
+C:\Users\Bilakon\source\repos\patika_odev\patika_odev\obj\Debug\net6.0\patika_odev.genruntimeconfig.cache
+C:\Users\Bilakon\source\repos\patika_odev\patika_odev\obj\Debug\net6.0\ref\patika_odev.dll
